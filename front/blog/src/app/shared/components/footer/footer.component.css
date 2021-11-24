@@ -1,0 +1,27 @@
+.social-network{
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-network > li{
+    display: inline;
+    padding: 5px;
+    margin:0;
+    font-size: 35px;
+  }
+  
+  .icoGithub, .icoGlobe, .icoLinkedin{
+    color: white;
+  }
+
+  .icoGlobe:hover{
+    color: #648dae;
+  }
+  
+  .icoGithub:hover{
+    color: #000;
+  }
+  
+  .icoLinkedin:hover{
+    color: #0072b1;
+  }
