@@ -2,7 +2,7 @@
 Blog pessoal construído com Angular
 
 
-Blog desenvolvido com Angular CLI versão e consumindo uma API simulada com Json-Server.
+Blog desenvolvido com Angular CLI versão 12.2 e consumindo uma API simulada com Json-Server.
 
 Neste projeto são aplicados conhecimentos como:
 * Bootstrap como uma estrutura para CSS
