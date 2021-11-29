@@ -8,19 +8,23 @@ Neste projeto são aplicados conhecimentos como:
 * Bootstrap como uma estrutura para CSS
 * Consumo de API;
 
+### Servidor da API
 
-## Servidor de desenvolvimento
+Execute `npm start` na pasta /back. Navegue até `http://localhost:3000/`.
 
-Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http: // localhost: 4200 /`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-## Code scaffolding
+### Servidor de desenvolvimento
+
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
+### Code scaffolding
 
 Execute `ng generate component-name` para gerar um novo componente.
 
-## Construir
+### Build
 
-Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist /`. Use o sinalizador `--prod` para uma construção de produção.
+Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`. Use o sinalizador `--prod` para uma construção de produção.
 
-## Ajuda adicional
+### Ajuda adicional
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou verifique o [Angular CLI README] (https://github.com/angular/angular-cli/blob/master/README.md).
